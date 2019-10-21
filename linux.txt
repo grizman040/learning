@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 asfa
 afaf
 asfaa
+=======
+jda;jd;a
+a
+fafoaasf
+afa
+afa[afa]
+>>>>>>> release/r
